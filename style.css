@@ -1,0 +1,52 @@
+body {
+    margin: 50px;
+    background-image: url(background.png);
+    font-family: arial;
+}
+
+#container {
+    margin: 0 auto;
+    width: 50%;
+}
+
+header ul {
+	background: #aa0a0a;
+	display: flex;
+	list-style: none;
+    margin-bottom: 0;
+	padding: 7px 10px;
+}
+
+header li {
+	margin: 2px 15px;
+}
+
+header a {
+	text-decoration: none;
+	color: white;
+}
+
+header a:hover {
+	color: black;
+}
+
+main {
+    margin: 0 auto;
+    width: 50% ;
+    background-color: white;  
+}
+
+h3 {
+    margin-top: 0;
+}
+
+
+form {
+	padding: 20px;
+}
+
+input {
+	position: absolute;
+	right: 420px;
+	width: auto;
+}
