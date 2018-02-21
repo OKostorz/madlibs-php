@@ -19,25 +19,42 @@
     <main>
         <h3>Er heerst paniek...</h3>
             <form action="#" method="POST">
-                <p>Welk dier zou je nooit als huisdier willen hebben?</p>
+            <div  id="tekst">
+                <div class="form-group">
+                    <label>Welk dier zou je nooit als huisdier willen hebben?</label>
                     <input type="text" name="ant1">
-                <p>Wie is de belangrijkste persoon in je leven?</p>
+                </div>
+                <div class="form-group">
+                    <label>Wie is de belangrijkste persoon in je leven?</label>
                     <input type="text" name="ant2">
-                <p>In welk land zou je graag willen wonen?</p>
+                </div>
+                <div class="form-group">
+                    <label>In welk land zou je graag willen wonen?</label>
                     <input type="text" name="ant3">
-                <p>Wat doe je als je je verveelt?</p>
+                </div>
+                <div class="form-group">
+                    <label>Wat doe je als je je verveelt?</label>
                     <input type="text" name="ant4">
-                <p>Met welk speelgoed speelde je als kind het meest?</p>
+                </div>
+                <div class="form-group">
+                    <label>Met welk speelgoed speelde je als kind het meest?</label>
                     <input type="text" name="ant5">
-                <p>Bij welke docent spijbel je het liefst?</p>
+                </div>
+                <div class="form-group">
+                    <label>Bij welke docent spijbel je het liefst?</label>
                     <input type="text" name="ant6">
-                <p>Als je €100.000,- had, wat zou je dan kopen?</p>
+                </div>
+                <div class="form-group">
+                    <label>Als je €100.000,- had, wat zou je dan kopen?</label>
                     <input type="text" name="ant7">
-                <p>Wat is je favoriete bezigheid?</p>
+                </div>
+                <div class="form-group">
+                    <label>Wat is je favoriete bezigheid?</label>
                     <input type="text" name="ant8">
-
-                    <input type="submit" name="submit">
+                </div>
+            </div>
             </form>
+        
     </main>
 
 </body>

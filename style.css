@@ -38,15 +38,43 @@ main {
 
 h3 {
     margin-top: 0;
+    margin-bottom: 0;
+    padding: 20px;
+    
 }
 
 
 form {
 	padding: 20px;
+ 
 }
 
 input {
-	position: absolute;
-	right: 420px;
-	width: auto;
+    margin-bottom: 20px;
+}
+
+#tekst {
+    padding: 0 0 0 20px;
+  
+}
+
+#pole {
+    display: inline-grid;
+    float: right;
+    
+   
+}
+
+
+.form-group{
+    display: flex;
+    justify-content: space-between;
+}
+.form-group label{
+    display: inline-block;
+   
+}
+.form-group input{
+    display: inline-block;
+    margin-right: 35px;
 }
