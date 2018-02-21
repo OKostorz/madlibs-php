@@ -52,6 +52,10 @@
                     <label>Wat is je favoriete bezigheid?</label>
                     <input type="text" name="ant8">
                 </div>
+                <div class="form-group">
+                    <label></label>
+                    <input type="submit" name="submit">
+                </div>
             </div>
             </form>
         

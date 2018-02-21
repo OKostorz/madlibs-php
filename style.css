@@ -39,32 +39,17 @@ main {
 h3 {
     margin-top: 0;
     margin-bottom: 0;
-    padding: 20px;
-    
-}
-
-
-form {
-	padding: 20px;
- 
+    padding: 25px;
 }
 
 input {
     margin-bottom: 20px;
+    width: 200px;
 }
 
 #tekst {
-    padding: 0 0 0 20px;
-  
+    padding: 0 0 0 25px;
 }
-
-#pole {
-    display: inline-grid;
-    float: right;
-    
-   
-}
-
 
 .form-group{
     display: flex;
@@ -76,5 +61,5 @@ input {
 }
 .form-group input{
     display: inline-block;
-    margin-right: 35px;
+    margin-right: 45px;
 }
