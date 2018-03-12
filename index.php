@@ -18,7 +18,7 @@
     
     <main>
         <h3>Er heerst paniek...</h3>
-            <form action="#" method="POST">
+            <form action="workA.php" method="POST">
             <div  id="tekst">
                 <div class="form-group">
                     <label>Welk dier zou je nooit als huisdier willen hebben?</label>
@@ -52,6 +52,7 @@
                     <label>Wat is je favoriete bezigheid?</label>
                     <input type="text" name="ant8">
                 </div>
+                
                 <div class="form-group">
                     <label></label>
                     <input type="submit" name="submit">
@@ -60,7 +61,8 @@
             </form>
         
     </main>
-
+    <footer>
+        <h4>by Livv - 2018</h4>
+    </footer>
 </body>
-<footer>.</footer>
 </html>
